@@ -1,0 +1,238 @@
+<p style="color:#ffffff">｡ ˳ْ  👤  ⍈  𓇼 𓂂 Estoy intentando hacer lo del código html para tener un perfil cool ayuda</p>
+
+
+/* spacehey logo */
+nav img.logo{filter: brightness(0) saturate(100%) invert(99%) sepia(73%) saturate(7472%) hue-rotate(280deg) brightness(101%) contrast(100%); !important;}
+
+
+
+
+
+<style>
+nav .top{
+/* navigation bar at the top/the bar that has the search and spacehey logo */
+background-color:rgba(255, 255, 255, 0.35);
+}
+</style>
+
+
+<style>
+/* these are the colors for the table headings on the left */
+.profile .contact .heading, .profile .table-section .heading, .home-actions .heading {
+background-color: rgba(171, 118, 207, 0.4);
+}
+</style>
+
+<style>
+/* contacting "_" */
+.profile .contact {
+background-color: rgba(171, 118, 207, 0.4);
+}
+</style>
+
+<style>
+/* friend comments */
+.profile .friends .comments-table td {
+background-color: rgba(171, 118, 207, 0.4);
+border: 1px solid rgba(255, 161, 207, 0.5);  
+}
+.comments-table td*{
+    
+    
+}
+</style>
+
+
+<style>
+/* colors for interest section */
+.profile .table-section .details-table td {
+background-color:rgba(223, 162, 210, 0.58);
+}
+</style>
+
+<style>
+/* navigation bar at the top/the bar that has navigation links */
+nav .links {
+background-color: transparent;
+}
+nav .links a:hover {
+color: rgba(255, 199, 226, 1);
+}
+</style>
+
+
+
+
+
+
+<style>
+/* this edits your friends' icons */
+.profile .friends .person img:not(.icon) {
+border-radius:15px;
+box-shadow: 1px 0px 7px 2px rgba(1, 124, 120, 3.71);
+border: 3px dotted rgba(255, 221, 241, 1)
+}
+</style>
+
+
+
+<style> 
+/* this is the box that says "_'s latest blog entries" */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&family=Roboto:wght@700&display=swap');
+DIV.blog-preview{
+text-align: center;
+font-family: 'Josefin Sans', sans-serif;
+background-color:rgba(255, 255, 255, 0.35);
+text-transform:lowercase !important;
+color: white;
+border-radius:15px;
+border: 5px dotted rgba(1, 124, 120, 0.45)
+}
+</style>
+
+
+
+
+
+
+<style>
+/* links to your friends' profiles */
+.profile .friends .person p {
+color: #ff75d1;  
+}
+.profile .friends .person p:hover {
+color: #ffd6f1;  
+}
+</style>
+
+
+
+<style>
+/* this is the background color for the headings of your blurbs, friend space + comments */
+.profile .blurbs .heading, .profile .friends .heading {
+color: white;
+background-color:rgba(255, 255, 255, 0.66);
+text-transform:lowercase !important;
+color: white;
+border-radius:15px;
+border: 3px dotted rgba(1, 124, 120, 0.45)
+}
+</style>
+
+
+
+
+<style>
+/* main profile background/the box that has all your text */
+/* use https://rgbacolorpicker.com/ to pick a different color and adjust it's opacity */
+main {
+background: rgba(0, 0, 0, 0.81);
+border-radius:15px;
+border: 2px dotted rgba(241, 190, 255, 1)
+}
+</style>
+
+
+
+
+<style>
+/* link colors when you hover over links */
+   a:hover {
+     color: #000000; 
+   } 
+   a{
+     color: #76a5af; 
+   }
+</style>
+
+
+
+
+
+<style>
+/* the color of the number of your friends */
+    .count {
+        color: #76a5af;
+    }
+</style>
+
+
+<style>
+/* this adjusts the size/font of your name */
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+h1{
+font-size: 25px !important;
+ffont-family: 'Special Elite', cursive;
+text-transform:uppercase !important;
+}
+</style> 
+
+
+<style> 
+/* this changes the color of your name */
+.profile h1{
+background: -webkit-linear-gradient(#76a5af, #ffffff);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+</style>
+
+
+
+<style>
+/* this centers your friend space */
+    .profile .friends .inner, .profile .blurbs .section h4{
+    text-align: center;
+    }
+</style>
+
+
+<style>
+/* this is what makes the text bold/look bigger */
+p{
+font-size: 14px !important;
+font-weight: bold;
+ text-transform:none !important;
+}
+</style> 
+
+
+<style>
+/* this changes the color of your headers */
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Paytone+One&display=swap');
+h4{
+font-size: 16px !important;
+font-family: 'Paytone One', sans-serif;	
+text-transform:uppercase !important;
+padding-left: 2px !important;
+/* gradient text, you can replace existing colors with whatever ones you want */
+background: -webkit-linear-gradient(#45818e, #45818e);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
+</style> 
+
+
+
+
+<style> 
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+p{
+font-family: 'Marcellus', serif;
+text-transform:lowercase !important;
+color:#ffffff
+</style>
+
+
+
+<style>
+/* profile background/the image behind the profile box */
+body { 
+background: url(https://i.postimg.cc/sXTVfg3G/4d740888825ff6e44028919c3f2ebfc0.gif);
+}
+</style>
+
+
+
+<style>* {cursor: url(https://cur.cursors-4u.net/anime/ani-6/ani547.cur), auto !important;}</style><a href="https://www.cursors-4u.com/cursor/2009/02/04/misa-amane-death-note.html" target="_blank" title="Misa Amane - Death Note"><img src="https://cur.cursors-4u.net/cursor.png" alt="Misa Amane - Death Note" style="position:absolute; top: 0px; right: 0px;"/></a>
